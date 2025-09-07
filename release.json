@@ -1,6 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/jeps-consulting/jeps-merge-releases/releases/download/v1.0.1/JepsMergeSetup-1.0.1.exe",
-  "notes": "Small fixes and UI polish.",
-  "published_at": "2025-08-31T12:00:00Z"
+  "version": "1.0.2",
+  "notes": "Dynamic port detection, installer branding, bug fixes and polish.",
+  "url": "https://github.com/jeps-consulting/jeps-merge-releases/releases/download/v1.0.2/Jeps-Merge-Setup.exe"
 }
